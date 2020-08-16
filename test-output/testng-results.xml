@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="268" started-at="2020-08-16T21:23:29 IST" finished-at="2020-08-16T21:23:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="268" started-at="2020-08-16T21:23:29 IST" finished-at="2020-08-16T21:23:29 IST">
+      <class name="com.qa.dockervalidation.StartDocker">
+        <test-method status="PASS" signature="startFile()[pri:0, instance:com.qa.dockervalidation.StartDocker@1c3a4799]" name="startFile" duration-ms="101" started-at="2020-08-16T21:23:29 IST" finished-at="2020-08-16T21:23:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startFile -->
+      </class> <!-- com.qa.dockervalidation.StartDocker -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
